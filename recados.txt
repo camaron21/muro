@@ -1,0 +1,2 @@
+genesis : hola a todos 
+diego : hola a todo putitoss 
